@@ -1,0 +1,15 @@
+Alokgupta@1122
+user:-
+username:-Madhuvrat_056
+password:-alokgupta
+
+database name:-alok_db
+collection name:-alok
+
+url:-mongodb://Madhuvrat_056:<password>@cluster0-shard-00-00-qsyps.mongodb.net:27017,cluster0-shard-00-01-qsyps.mongodb.net:27017,cluster0-shard-00-02-qsyps.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true
+
+mysql:-
+dbname:-bid_plus
+username:-madhuvrat_1122
+password:-alokgupta1122
+email:-mdgupta.md.1122@gmail.com
